@@ -131,6 +131,7 @@ dist
 /node_modules
 /.pnp
 .pnp.js
+/storybook-static
 
 # testing
 /coverage
